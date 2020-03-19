@@ -1,3 +1,7 @@
 aaaaaaaaaaaaaaa
 bbbbbbbbbbbb
+<<<<<<< HEAD
 ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+=======
+ジャミうんち
+>>>>>>> 8fbaa106eee66fb989d94106a45a71a13bbc3974
